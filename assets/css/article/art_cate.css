@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    padding: 15px;
+}
+
+.layui-card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#dialog-form,
+#dialog-edit{
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+
+  
+.del{
+  margin-top: 50%;
+  margin-right: 50%;
+}
